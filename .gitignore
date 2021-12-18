@@ -4,11 +4,12 @@ texts
 TestImages
 settings
 RGBImages
-raw_texts
 orc_sub
 ILAImages
-File_srt
+ISAImages
 dist
+build
+bitmaps
 VideoSubFinderWXW.exe
 token.json
 Scan Sutitle.cmd
