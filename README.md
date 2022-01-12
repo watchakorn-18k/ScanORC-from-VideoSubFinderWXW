@@ -11,6 +11,7 @@ pip install --upgrade google-api-python-client google-auth-httplib2 google-auth-
 * Create a folder named File_srt and raw_texts
 * [You can watch the video here](https://youtu.be/JXbL-PEoT4I)
 
+[Credit From](https://github.com/Abu3safeer/image-ocr-google-docs-srt)
 
 # How to develop 
 * [Install python](https://www.python.org/)
